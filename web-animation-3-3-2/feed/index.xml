@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Marketing</title>
+	<atom:link href="/web-animation-3-3-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/web-animation-3-3-2/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 31 Jan 2019 21:35:52 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.3</generator>
+	<item>
+		<title>By: werrrrrrr</title>
+		<link>/web-animation-3-3-2/#comment-4</link>
+		<dc:creator><![CDATA[werrrrrrr]]></dc:creator>
+		<pubDate>Sun, 27 Jan 2019 20:18:59 +0000</pubDate>
+		<guid isPermaLink="false">https://websitedemos.net/agency-02/?p=909#comment-4</guid>
+		<description><![CDATA[yyuiii
+mmjjk
+
+
+kjkjjhtyuioiukjnhbbbvfffffgggg]]></description>
+		<content:encoded><![CDATA[<p>yyuiii<br />
+mmjjk</p>
+<p>kjkjjhtyuioiukjnhbbbvfffffgggg</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: mvv</title>
+		<link>/web-animation-3-3-2/#comment-3</link>
+		<dc:creator><![CDATA[mvv]]></dc:creator>
+		<pubDate>Sun, 27 Jan 2019 20:18:13 +0000</pubDate>
+		<guid isPermaLink="false">https://websitedemos.net/agency-02/?p=909#comment-3</guid>
+		<description><![CDATA[fffffff]]></description>
+		<content:encoded><![CDATA[<p>fffffff</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
